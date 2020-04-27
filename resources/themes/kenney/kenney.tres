@@ -4,7 +4,7 @@
 [ext_resource path="res://resources/themes/kenney/9-Slice/Ancient/grey_pressed.png" type="Texture" id=2]
 [ext_resource path="res://resources/themes/kenney/9-Slice/Ancient/grey.png" type="Texture" id=3]
 [ext_resource path="res://resources/themes/kenney/9-Slice/Ancient/brown_inlay.png" type="Texture" id=4]
-[ext_resource path="res://resources/fonts/kenney_pixel.tres" type="DynamicFont" id=5]
+[ext_resource path="res://resources/fonts/kenney_128.tres" type="DynamicFont" id=5]
 
 [sub_resource type="StyleBoxTexture" id=1]
 texture = ExtResource( 1 )
