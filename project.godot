@@ -18,10 +18,40 @@ _global_script_classes=[ {
 "class": "LevelLoader",
 "language": "GDScript",
 "path": "res://scripts/classes/LevelLoader.gd"
+}, {
+"base": "Node",
+"class": "PhoenixChannel",
+"language": "GDScript",
+"path": "res://lib/phoenix/Channel.gd"
+}, {
+"base": "Node",
+"class": "PhoenixMessage",
+"language": "GDScript",
+"path": "res://lib/phoenix/Message.gd"
+}, {
+"base": "Node",
+"class": "PhoenixPresence",
+"language": "GDScript",
+"path": "res://lib/phoenix/Presence.gd"
+}, {
+"base": "Node",
+"class": "PhoenixSocket",
+"language": "GDScript",
+"path": "res://lib/phoenix/Socket.gd"
+}, {
+"base": "Node",
+"class": "PhoenixUtils",
+"language": "GDScript",
+"path": "res://lib/phoenix/Utils.gd"
 } ]
 _global_script_class_icons={
 "FloatingText": "",
-"LevelLoader": ""
+"LevelLoader": "",
+"PhoenixChannel": "",
+"PhoenixMessage": "",
+"PhoenixPresence": "",
+"PhoenixSocket": "",
+"PhoenixUtils": ""
 }
 
 [application]
